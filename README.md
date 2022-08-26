@@ -1,9 +1,11 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+<h1 align="center">Cryptocurrency Tracker</h1>
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+## About 
+A cryptocurrency price tracker monitors the current value of digital currencies, in addition to information about market capitalization, trading volume, price charts, and other types of data.
 
-## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+## Features 
+1. Data visualisation using charts.
+2. Responsive.
 
 ## Built with 
 
@@ -11,3 +13,16 @@
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
+## Hosted On
+[![Netlify Status](https://api.netlify.com/api/v1/badges/efd9a22e-4e89-4a54-8b07-18d3d5a99b7e/deploy-status)](https://app.netlify.com/sites/crypto-ecash-tracker/deploys)
+
+Hosted on [Netlify](https://www.netlify.com/), hence accessible anywhere.
+
+## Link
+```
+https://crypto-ecash-tracker.netlify.app/
+```
+
+---
+<h2 align="center">Hope you like this application :)</h2>
+<h3 align="center">Show some ❤️ by giving ⭐ to this repository !!</h3>
