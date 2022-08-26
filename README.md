@@ -18,6 +18,10 @@ A cryptocurrency price tracker monitors the current value of digital currencies,
 
 Hosted on [Netlify](https://www.netlify.com/), hence accessible anywhere.
 
+## Preview
+![image](https://github.com/TheNewC0der-24/Crypto-Tracker-REACT/blob/master/Preview/Preview-1.png)
+![image](https://github.com/TheNewC0der-24/Crypto-Tracker-REACT/blob/master/Preview/Preview-2.png)
+
 ## Link
 ```
 https://crypto-ecash-tracker.netlify.app/
