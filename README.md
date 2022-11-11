@@ -9,9 +9,9 @@ A cryptocurrency price tracker monitors the current value of digital currencies,
 
 ## Built with 
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+* [React JS](https://reactjs.org/)
+* [Material UI](https://v4.mui.com/)
+* [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
 ## Hosted On
 [![Netlify Status](https://api.netlify.com/api/v1/badges/efd9a22e-4e89-4a54-8b07-18d3d5a99b7e/deploy-status)](https://app.netlify.com/sites/crypto-ecash-tracker/deploys)
